@@ -1,0 +1,7 @@
+{
+  "id"             : 123456
+  ,"title"         : "test_data_source_dashboard X"
+  ,"tags"          : ["test"]
+  ,"timezone"      : "browser"
+  ,"schemaVersion" : 16
+}
